@@ -11,8 +11,6 @@ This project is designed to extract, clean, and analyze Facebook Ads data for Ac
 - [Project Structure](#project-structure)
 - [Data Pipeline](#data-pipeline)
 - [Power BI Report](#power-bi-report)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -33,6 +31,8 @@ This project aims to provide a comprehensive analysis of Facebook Ads performanc
 
 - Python 3.7 or higher
 - PostgreSQL
+- pgAdmin 4
+- Visual Studio Code
 - Jupyter Notebook
 - Power BI Desktop
 - Windows Task Manager (for scheduling tasks)
@@ -114,19 +114,12 @@ facebook-ads-analysis/
 
 The Power BI report provides various insights into the performance of Facebook Ads, including metrics such as impressions, clicks, conversions, and ROAS (Return on Ad Spend). The report is designed to update daily with the latest data from the PostgreSQL database.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or inquiries, please contact:
 
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile]
+- **Name:** Eduardo Geovany Rodríguez González
+- **Linkedin:** https://www.linkedin.com/in/geovany-rodriguez/
+- **Email:** gio_rdz.27@hotmail.com
+- **GitHub:** https://github.com/geovanyrdz
 
