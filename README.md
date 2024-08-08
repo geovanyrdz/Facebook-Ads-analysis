@@ -78,7 +78,7 @@ This project aims to provide a comprehensive analysis of Facebook Ads performanc
 facebook-ads-analysis/
 │
 ├── data/
-│   ├── rfacebook_ads_data.csv/
+│   ├── facebook_ads_data.csv/
 │   ├── facebook_ads_data_clean/
 │
 ├── notebooks/
