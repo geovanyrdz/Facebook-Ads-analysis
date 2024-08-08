@@ -1,4 +1,4 @@
-# Facebook Ads Analysis Project
+# Facebook Ads Analysis with Python, SQL and Power Bi
 
 This project is designed to extract, clean, and analyze Facebook Ads data for Acala Skin, one of my e-commerce brands. The process includes extracting data from the Facebook Marketing API, cleaning the data in a Jupyter Notebook, exporting it to a PostgreSQL database, and creating a Power BI report that updates daily with the new data.
 
