@@ -91,9 +91,6 @@ facebook-ads-analysis/
 ├── power_bi/
 │   ├── report.pbix
 │
-├── database_config.py
-├── facebook_api_config.py
-├── requirements.txt
 └── README.md
 ```
 ## Data Pipeline
