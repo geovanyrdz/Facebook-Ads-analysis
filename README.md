@@ -45,14 +45,8 @@ This project aims to provide a comprehensive analysis of Facebook Ads performanc
     cd facebook-ads-analysis
     ```
 
-2. **Install the required Python packages:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 3. **Set up the PostgreSQL database:**
-    - Create a new PostgreSQL database.
-    - Update the database connection details in `database_config.py`.
+    - Create a new PostgreSQL database using pgAdmin.
 
 4. **Configure the Facebook Marketing API:**
     - Obtain your access token from the Facebook Developer portal.
