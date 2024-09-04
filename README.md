@@ -13,6 +13,9 @@ This project is designed to extract, clean, and analyze Facebook Ads data for Ac
 - [Power BI Report](#power-bi-report)
 - [Contact](#contact)
 
+## Link to the TPower Bi Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZDhkNGYwNWMtMWQyOS00NzIwLWI2ZTgtOTFkMjYzNjhmYjk1IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9
+
 ## Overview
 
 This project aims to provide a comprehensive analysis of Facebook Ads performance by leveraging various tools and technologies. The data is extracted using Python, cleaned in a Jupyter Notebook, stored in a PostgreSQL database, and visualized in a Power BI report that updates daily.
