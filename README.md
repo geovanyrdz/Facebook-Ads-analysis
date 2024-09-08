@@ -2,6 +2,10 @@
 
 This project is designed to extract, clean, and analyze Facebook Ads data for Acala Skin, one of my e-commerce brands. The process includes extracting data from the Facebook Marketing API, cleaning the data in a Jupyter Notebook, exporting it to a PostgreSQL database, and creating a Power BI report that updates daily with the new data.
 
+![image](https://github.com/user-attachments/assets/4394c829-f22e-45a9-acae-fe53ea4818f1)
+
+
+
 ## Link to the Power Bi Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZDhkNGYwNWMtMWQyOS00NzIwLWI2ZTgtOTFkMjYzNjhmYjk1IiwidCI6IjMxZDdlMmE1LWJkZDgtNDE0ZS05ZTk3LWJlYTk5OGViZGZlMSIsImMiOjN9
 
